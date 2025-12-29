@@ -1,0 +1,32 @@
+
+.post {
+  width: 420px;
+  background-color: #141414;
+  padding: 2ch;
+  min-width: 320px;
+  min-height: 100px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  
+}
+
+img {
+  max-width: 100%
+}
+
+video {
+  max-width: 100%;
+}
+
+p {
+  max-height: 300px;
+  overflow: hidden;
+  text-align: justify;
+}
+
+.author {
+  display: block;
+  text-align: start;
+  font-size: 15px;
+  color: rgb(135 135 135);
+}
